@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/jae_jin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kadantte.ga
+  * I am jae_jin (https://keybase.io/jae_jin) on keybase.
+  * I have a public key with fingerprint 7D07 CAA2 7005 B1F1 344C  18C7 0F6D C7F8 F67B 7853
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010118d9ccf8a9a137afc2625a69e8ceff0b468d5013a158dc706a30bd441b89c4bd0a",
+      "fingerprint": "7d07caa27005b1f1344c18c70f6dc7f8f67b7853",
+      "host": "keybase.io",
+      "key_id": "0f6dc7f8f67b7853",
+      "kid": "010118d9ccf8a9a137afc2625a69e8ceff0b468d5013a158dc706a30bd441b89c4bd0a",
+      "uid": "c56e88ac9190da5f382d47c58b453b19",
+      "username": "jae_jin"
+    },
+    "service": {
+      "hostname": "kadantte.ga",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1552164668,
+  "expire_in": 157680000,
+  "prev": "91954fe844775f5b789b82a28f45025b55d94013a3b4ee4c03f122abe88e08fc",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJbSBVBGD6mWRmh1UsRdNmgSE42s7uzO3s0CDICKSqIKNIOM7Ozx/XY
+ntPZ9Y4WZVpUdMPwoaJ6SIyoKLqoEJl1im5kom9GIaRlSZESQUazZU+9Ni/D/PN9
+3//9H/+DGamBjJThwXUXpheOnEx52tlUFiisX5pXI9GYWSWFaqQo/33xUpO7Xjhq
+m1JIAhBAiE2DMQsTg0BFJxaTNRkRzeCYccsCVNWwiQBUCETYZDrQiAKoqaqQYoOp
+1ARECkqW7UR4Ip6wHU/I6ibQGSGyDgCi0IKKqjKIBdfShIKFLU2nOkaKIBbHXJ8h
+zFHi8hw7JmriEf5j71/8f/Zd9luOIY1jTJgBDWASZClYNlWdIUxVpFBo+ECXJxyy
+kwt0CeHhEtuRaoOSKJbbjPu5+oNMAKLEJI7n8ZyI3yKeiHkxFisVH8WeF3dDPtGr
+ivvICk7DExphajumSFEwynnCtWOOFIICyTzbF4UIyVBTNQ0HJV4ZtxM8bPsIpGsY
+iOP34eVCUsyAVItjVdV1ZCGRm0GxTGRsqQjIiCJkGqofi0JVzlUGFAvKMqEiAA6w
+xSR/ql1OTAohYZNEhKRrRxzilSW4VHv/XmFaICUjkD55kr9dgYxpWX937nJwaqAl
+8/icr3Z955SK3KP5hw7+zOr93HSz73bppas5wcorX06fTi7DBceqJGeJfG3/ju23
+Cg4HWsGehpKK66fkyPxtRbsblhZ+946Mjq7vrFTc3ot1LXfPZF/PX/3h08zjb8Zf
+bKoc7WhbcfHbhlkfqifVbe77kXunSN/SPDy+cC9sfr54VTcYbuxOJle+Pf8AvDe3
+3kidF9W6OgYXPQE/x7rm7hh67BW1Z7bm0IKBoeqT75puzS631vQUXBue2b+g53XG
+iVdj2cnG4MZGcq//QFd7G75f/TDtY+kzt3na8tlpybMDI43Flymj554lhtY60Skw
+F+17lNf7MtVNmfq0I7umLjP9Fyj3RAQ=
+=dPuE
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jae_jin
+
+==================================================================
