@@ -4,7 +4,7 @@ https://keybase.io/jae_jin
 
 I hereby claim:
 
-  * I am an admin of https://kadantte.ga
+  * I am an admin of https://me.kadantte.ga
   * I am jae_jin (https://keybase.io/jae_jin) on keybase.
   * I have a public key with fingerprint 7D07 CAA2 7005 B1F1 344C  18C7 0F6D C7F8 F67B 7853
 
@@ -21,17 +21,27 @@ To do so, I am signing this object:
       "uid": "c56e88ac9190da5f382d47c58b453b19",
       "username": "jae_jin"
     },
+    "merkle_root": {
+      "ctime": 1553680719,
+      "hash_meta": "9f8fdc2674c6785d3770a605a297c588cdebe954ae37a6d59f197728ba7b4f73",
+      "seqno": 5031772
+    },
+    "revoke": {
+      "sig_ids": [
+        "178ba8aa44de0217829708aa5b23cae18441407c039de91f7a14f533feee9fc60f"
+      ]
+    },
     "service": {
-      "hostname": "kadantte.ga",
+      "hostname": "me.kadantte.ga",
       "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1552164668,
+  "ctime": 1553680713,
   "expire_in": 157680000,
-  "prev": "91954fe844775f5b789b82a28f45025b55d94013a3b4ee4c03f122abe88e08fc",
-  "seqno": 5,
+  "prev": "32c6815694244b93c44d72e7d734effd84c343e5bdc8df56576151177a0704f7",
+  "seqno": 6,
   "tag": "signature"
 }
 
@@ -41,23 +51,26 @@ which yields the signature:
 Version: Keybase OpenPGP v2.1.0
 Comment: https://keybase.io/crypto
 
-yMIkAnicrVJbSBVBGD6mWRmh1UsRdNmgSE42s7uzO3s0CDICKSqIKNIOM7Ozx/XY
-ntPZ9Y4WZVpUdMPwoaJ6SIyoKLqoEJl1im5kom9GIaRlSZESQUazZU+9Ni/D/PN9
-3//9H/+DGamBjJThwXUXpheOnEx52tlUFiisX5pXI9GYWSWFaqQo/33xUpO7Xjhq
-m1JIAhBAiE2DMQsTg0BFJxaTNRkRzeCYccsCVNWwiQBUCETYZDrQiAKoqaqQYoOp
-1ARECkqW7UR4Ip6wHU/I6ibQGSGyDgCi0IKKqjKIBdfShIKFLU2nOkaKIBbHXJ8h
-zFHi8hw7JmriEf5j71/8f/Zd9luOIY1jTJgBDWASZClYNlWdIUxVpFBo+ECXJxyy
-kwt0CeHhEtuRaoOSKJbbjPu5+oNMAKLEJI7n8ZyI3yKeiHkxFisVH8WeF3dDPtGr
-ivvICk7DExphajumSFEwynnCtWOOFIICyTzbF4UIyVBTNQ0HJV4ZtxM8bPsIpGsY
-iOP34eVCUsyAVItjVdV1ZCGRm0GxTGRsqQjIiCJkGqofi0JVzlUGFAvKMqEiAA6w
-xSR/ql1OTAohYZNEhKRrRxzilSW4VHv/XmFaICUjkD55kr9dgYxpWX937nJwaqAl
-8/icr3Z955SK3KP5hw7+zOr93HSz73bppas5wcorX06fTi7DBceqJGeJfG3/ju23
-Cg4HWsGehpKK66fkyPxtRbsblhZ+946Mjq7vrFTc3ot1LXfPZF/PX/3h08zjb8Zf
-bKoc7WhbcfHbhlkfqifVbe77kXunSN/SPDy+cC9sfr54VTcYbuxOJle+Pf8AvDe3
-3kidF9W6OgYXPQE/x7rm7hh67BW1Z7bm0IKBoeqT75puzS631vQUXBue2b+g53XG
-iVdj2cnG4MZGcq//QFd7G75f/TDtY+kzt3na8tlpybMDI43Flymj554lhtY60Skw
-F+17lNf7MtVNmfq0I7umLjP9Fyj3RAQ=
-=dPuE
+yMK7AnicrVNPbBVFHH7Ftk8rEKKRRK0KqwmX0szszOzMvqJi1EjFNJYDopYsszOz
+r9vXt/u6u30CpSbWf/GAjZXgHzi1RurF1BCIFw0WYqIEEwwlHuTQ2gZSBBUuHoj1
+txVjolf3MpmZ7/f9vu/77ZxadUuhpeHyxWfGb++5+m7D6en6YKHnUGfnkOXHeo9V
+GrIqZnkx/dqkmVcJtVWyEEYYC+0qFQjpSky4DJTt2Ew6rhHKBAHyqSM0Q5hIzIRW
+HDmSIF9Tin3hKuprJK02KwijsklqSRhlQMs14kpKmyPEfBxgQqnCAmoDBxgCETjc
+54IRKOyN07wCxPkyNe1hDGew8f6S91/8/6x7cJlOMccIIZWLXaQlC4iwNeWKCZ8y
+4mM3B6YmiWTVALpPGq8vjKzhNqtqkkq/8ZI4zvJsVRbmCMwYcQTi2AV/Mu31qiaT
+UOiCEw0yOVUO2NGEcyQdxKTt5s2E0sY3LqPSgB9HMzfALue28CX3acBz+6kZiGKr
+xBDBcAMKElOPKyZvnoZlSC21Si9amEONkJJSbZANO2iAYM98myhpsIAUKIwIEVcb
+FwdcYhowQgJjjBsoBwXWzuG8WVIP1TJ5Pqab9qumvSK1jLLMtJfzDGtJnMUq7oe7
+3iyrpaU8mWxPLQe/ZHzvJo3nh5GG3wQq6iZJwziCpAD579BIm2V218LEeGGOYBxO
+4cv7mDpQEls5AjPHpTalvksUuOS24ZoTCoPXgipCiWG+VkIHzAECzDDEJRFHEOM/
+KTogU5aBEqKLZDaYGGt4+kRPY6GhpdDctCJ/PoWW29b8/aiObi0uvbDzWP37qWdl
+cXL7tS83L0yuPzHy5OhYafHY17e+fm2++P78ydNHsrXZ07NbWu5qvVE9dNyMdU0V
+ikO7BrYM/fCZ90BTBx65uGnr2W+fWLfyHm/XpdrGTV3PPb+/cfz6gbcXPx97Z2ai
+ufxg5/mml62Fjx4/V6nsjR6+d+LSd+u7d/SduTByeOCV3v7tR4cP/rrvobs7fmxO
+N27+gkz9tPRptXV0du3ek63WfaeuHtxm3N8aglWLK0ceadzx81d9+0avv/re7NyH
+R5LuuTc3LCzt/nh+4spTvd/8ce7OjsfaVwyGB36/fOOtD9ZdiVo/SY/Xpt84P958
+9v45Z/XqM3cU14STcdcv8Uz3/tfIzKMX/gSAw4DM
+=8t/k
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
