@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kadantte.ga
+Token: f7e9791d6edeced2d2e7b97de15659fefb124c3fdafe90b1dce4a42d70209f17
